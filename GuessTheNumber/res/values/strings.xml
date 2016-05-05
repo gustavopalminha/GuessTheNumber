@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Guess The Number</string>
+    <string name="action_settings">Settings</string>
+    <string name="try_btn">Try!</string>
+    <string name="reset_btn">Reset!</string>
+    <string name="instructions">&lt;p align=&quot;justify&quot;&gt;Instructions: &lt;br&gt; A random number between 1 and 6 was selected and you have to type your guess between this range.&lt;br&gt;For this, when the game starts, you have 3 tries.&lt;br&gt;Good Luck!&lt;/p&gt;</string>
+    <string name="try_hint">Press to play</string>
+    <string name="input_hint">Your guess&#8230;</string>
+    <string name="tries">Tries:</string>
+</resources>
